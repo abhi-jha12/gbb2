@@ -9,3 +9,7 @@ frontend:
       commands:
         - npm install
         - npm run build
+    artifacts:
+    baseDirectory: ../gbb2/dist
+    files:
+      - '**/*'
