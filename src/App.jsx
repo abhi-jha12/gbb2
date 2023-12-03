@@ -5,7 +5,7 @@ import Footer from './components/Footer';
 import Card from './components/Cards';
 import Button from './components/Button';
 import ImageCard from './utils/ImageCard';
-import SignInSignUpModal from './utils/SignInSignUpModal'; // Make sure this path is correct
+import SignInSignUpModal from './utils/SignInSignUpModal'; // Make sure this path is correctans  bbdjdjbc
 
 const App = () => {
   const [showModal, setShowModal] = useState(false);
